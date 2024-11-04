@@ -1,0 +1,18 @@
+.deletebtn{
+    background-color: rgb(255, 235, 235);
+    color: red;
+   
+}
+.deletebtn:hover{
+    border: 1px solid red;
+}
+.todo-task{
+    text-transform: capitalize;
+}
+.todo-item input[type='checkbox']{
+    color:rgb(0, 231, 15);
+    height: 18px;
+    width: 30px;
+   
+
+}
